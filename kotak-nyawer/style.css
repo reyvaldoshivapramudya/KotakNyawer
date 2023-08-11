@@ -707,7 +707,7 @@ footer p {
 
   body {
     margin-top: -2%;
-    width: 100%;
+    max-width: 100%;
   }
   .navbar {
     display: none;
