@@ -1006,8 +1006,12 @@ footer p {
   }
 
   .ewallet-partner {
-    width: 70%;
-    left: -10%;
+    text-align: center;
+    width: 45%;
+    top: 50px;
+    left: 25%;
+    padding: 10px;
+    margin: 20px 0;
   }
 
   .ewallet-partner h3 {
@@ -1017,10 +1021,9 @@ footer p {
   }
 
   .ewallet-partner img {
-    width: 28%;
+    width: 55%;
     border-radius: 8px;
-    margin-right: -5px;
-    margin-left: -5px;
+    margin-top: 5px;
   }
 
   .ewallet-partner img:hover {
@@ -1032,13 +1035,12 @@ footer p {
   }
 
   .syarat-ketentuan h3 {
-    font-size: 18px;
-    top: -37px;
+    font-size: 15px;
+    top: -33px;
     left: 3%;
   }
 
   .question {
-    /* margin-left: 64%; */
     margin-top: 680px;
     margin-bottom: -200px;
   }
@@ -1070,7 +1072,6 @@ footer p {
 
   .media-social {
     text-align: end;
-    /* margin-top: 15px; */
     margin-right: -10px;
   }
 
@@ -1078,4 +1079,3 @@ footer p {
     font-size: 15px;
   }
 }
-
