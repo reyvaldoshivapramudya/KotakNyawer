@@ -963,7 +963,7 @@ footer p {
   }
 
   .creator-partner {
-    width: 90%;
+    max-width: 90%;
     left: -2%;
   }
 
@@ -985,7 +985,7 @@ footer p {
   }
 
   .media-partner {
-    width: 90%;
+    max-width: 90%;
     left: -2%;
   }
 
@@ -1008,7 +1008,7 @@ footer p {
 
   .ewallet-partner {
     text-align: center;
-    width: 45%;
+    max-width: 45%;
     top: 50px;
     left: 25%;
     padding: 10px;
@@ -1053,7 +1053,7 @@ footer p {
 
   .wrapper {
     padding: 5px 8px;
-    width: 65%;
+    max-width: 65%;
     margin-left: 17%;
   }
 
@@ -1080,3 +1080,4 @@ footer p {
     font-size: 15px;
   }
 }
+
