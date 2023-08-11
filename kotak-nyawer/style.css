@@ -966,7 +966,6 @@ footer p {
   .creator-partner {
     max-width: 60%;
     padding: 10px;
-    left: 14%;
   }
 
   .creator-partner h3 {
@@ -987,7 +986,6 @@ footer p {
   .media-partner {
     max-width: 60%;
     padding: 10px;
-    left: 14%;
   }
 
   .media-partner h3 {
@@ -1079,4 +1077,3 @@ footer p {
     font-size: 15px;
   }
 }
-
