@@ -6,7 +6,7 @@
   padding: 0;
   scroll-behavior: smooth;
   font-family: 'Chakra Petch', sans-serif;
-  /* box-sizing: border-box; */
+  box-sizing: border-box;
 }
 
 body {
@@ -707,7 +707,8 @@ footer p {
 
   body {
     margin-top: -2%;
-    max-width: 100%;
+    width: 100%;
+    overflow-x: hidden;
   }
   .navbar {
     display: none;
