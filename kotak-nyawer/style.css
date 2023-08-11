@@ -6,14 +6,13 @@
   padding: 0;
   scroll-behavior: smooth;
   font-family: 'Chakra Petch', sans-serif;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
 body {
   background-color: #f7d293;
   height: 100vh;
   width: 100%;
-  overflow-wrap: normal;
 }
 
 .navbar-mobile {
