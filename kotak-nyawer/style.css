@@ -964,21 +964,20 @@ footer p {
   }
 
   .creator-partner {
-    max-width: 90%;
-    left: -2%;
+    max-width: 60%;
+    padding: 10px;
+    left: 12%;
   }
 
   .creator-partner h3 {
     font-size: 18px;
-    left: 5%;
+    left: 1%;
     top: -36px;
   }
 
   .creator-partner img {
-    width: 16%;
+    width: 30%;
     border-radius: 8px;
-    margin-right: -6px;
-    margin-left: -6px;
   }
 
   .creator-partner img:hover {
@@ -986,8 +985,9 @@ footer p {
   }
 
   .media-partner {
-    max-width: 90%;
-    left: -2%;
+    max-width: 60%;
+    padding: 10px;
+    left: 12%;
   }
 
   .media-partner h3 {
@@ -997,10 +997,8 @@ footer p {
   }
 
   .media-partner img {
-    width: 16%;
+    width: 30%;
     border-radius: 8px;
-    margin-right: -6px;
-    margin-left: -6px;
   }
 
   .media-partner img:hover {
@@ -1038,7 +1036,7 @@ footer p {
 
   .syarat-ketentuan h3 {
     font-size: 15px;
-    top: -33px;
+    top: -32px;
     left: 3%;
   }
 
