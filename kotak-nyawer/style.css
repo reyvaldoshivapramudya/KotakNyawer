@@ -949,18 +949,20 @@ footer p {
   }
 
   .creator-partner {
-    max-width: 60%;
+    width: 280px;
     padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .creator-partner h3 {
     font-size: 18px;
-    left: 1%;
+    left: 5px;
     top: -36px;
   }
 
   .creator-partner img {
-    width: 30%;
+    width: 50px;
     border-radius: 8px;
   }
 
@@ -969,18 +971,20 @@ footer p {
   }
 
   .media-partner {
-    max-width: 60%;
+    width: 280px;
     padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .media-partner h3 {
     font-size: 18px;
-    left: 5%;
+    left: 5px;
     top: -36px;
   }
 
   .media-partner img {
-    width: 30%;
+    width: 50px;
     border-radius: 8px;
   }
 
